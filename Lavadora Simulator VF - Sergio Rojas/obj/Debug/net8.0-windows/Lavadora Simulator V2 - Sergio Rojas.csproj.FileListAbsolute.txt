@@ -1,0 +1,40 @@
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.exe
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.deps.json
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.runtimeconfig.json
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.pdb
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora_Simulator_V2___Sergio_Rojas.Principal.resources
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora_Simulator_V2___Sergio_Rojas.Properties.Resources.resources
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora_Simulator_V2___Sergio_Rojas.Simulador.resources
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\refint\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.pdb
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.genruntimeconfig.cache
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\obj\Debug\net8.0-windows\ref\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\ArchivosAdicionales\LavadoraWakaWakaWab.wav
+C:\Users\Sergio\source\repos\Lavadora Simulator V2 - Sergio Rojas\bin\Debug\net8.0-windows\ArchivosAdicionales\Beep-FinalWab.wav
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\ArchivosAdicionales\Beep-FinalWab.wav
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\ArchivosAdicionales\LavadoraWakaWakaWab.wav
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.exe
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.deps.json
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.runtimeconfig.json
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\bin\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.pdb
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora_Simulator_V2___Sergio_Rojas.Principal.resources
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora_Simulator_V2___Sergio_Rojas.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora_Simulator_V2___Sergio_Rojas.Simulador.resources
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\refint\Lavadora Simulator V2 - Sergio Rojas.dll
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.pdb
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\Lavadora Simulator V2 - Sergio Rojas.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Git ever\Programacion 2\Lavadora Simulator VF - Sergio Rojas\obj\Debug\net8.0-windows\ref\Lavadora Simulator V2 - Sergio Rojas.dll

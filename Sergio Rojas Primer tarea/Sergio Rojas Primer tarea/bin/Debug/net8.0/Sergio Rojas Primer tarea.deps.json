@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sergio Rojas Primer tarea/1.0.0": {
+        "runtime": {
+          "Sergio Rojas Primer tarea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sergio Rojas Primer tarea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

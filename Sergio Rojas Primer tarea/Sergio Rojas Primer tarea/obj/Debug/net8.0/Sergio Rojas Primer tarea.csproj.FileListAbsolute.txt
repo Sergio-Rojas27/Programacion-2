@@ -1,0 +1,14 @@
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\bin\Debug\net8.0\Sergio Rojas Primer tarea.exe
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\bin\Debug\net8.0\Sergio Rojas Primer tarea.deps.json
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\bin\Debug\net8.0\Sergio Rojas Primer tarea.runtimeconfig.json
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\bin\Debug\net8.0\Sergio Rojas Primer tarea.dll
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\bin\Debug\net8.0\Sergio Rojas Primer tarea.pdb
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.dll
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\refint\Sergio Rojas Primer tarea.dll
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.pdb
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\Sergio Rojas Primer tarea.genruntimeconfig.cache
+C:\Users\Sergio\source\repos\Sergio Rojas Primer tarea\Sergio Rojas Primer tarea\obj\Debug\net8.0\ref\Sergio Rojas Primer tarea.dll

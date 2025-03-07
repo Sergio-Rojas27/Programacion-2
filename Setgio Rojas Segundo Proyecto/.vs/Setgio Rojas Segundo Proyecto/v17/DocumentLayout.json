@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|c:\\users\\sergio\\source\\repos\\setgio rojas segundo proyecto\\setgio rojas segundo proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|solutionrelative:setgio rojas segundo proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\setgio rojas segundo proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|solutionrelative:setgio rojas segundo proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\setgio rojas segundo proyecto\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|solutionrelative:setgio rojas segundo proyecto\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|c:\\users\\sergio\\source\\repos\\setgio rojas segundo proyecto\\setgio rojas segundo proyecto\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316AF34-AFE1-4A27-A265-C0A2D22D4B28}|Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto.csproj|solutionrelative:setgio rojas segundo proyecto\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Agregar.cs",
+              "RelativeDocumentMoniker": "Setgio Rojas Segundo Proyecto\\Agregar.cs",
+              "ToolTip": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Agregar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Setgio Rojas Segundo Proyecto\\Agregar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:39:40.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agregar.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Agregar.cs",
+              "RelativeDocumentMoniker": "Setgio Rojas Segundo Proyecto\\Agregar.cs",
+              "ToolTip": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Agregar.cs",
+              "RelativeToolTip": "Setgio Rojas Segundo Proyecto\\Agregar.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:43:35.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Setgio Rojas Segundo Proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Form1.cs",
+              "RelativeToolTip": "Setgio Rojas Segundo Proyecto\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:08:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Setgio Rojas Segundo Proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sergio\\source\\repos\\Setgio Rojas Segundo Proyecto\\Setgio Rojas Segundo Proyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Setgio Rojas Segundo Proyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:51:16.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

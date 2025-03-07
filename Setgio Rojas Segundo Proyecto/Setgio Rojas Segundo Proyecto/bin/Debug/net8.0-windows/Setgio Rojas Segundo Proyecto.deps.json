@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Setgio Rojas Segundo Proyecto/1.0.0": {
+        "runtime": {
+          "Setgio Rojas Segundo Proyecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Setgio Rojas Segundo Proyecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

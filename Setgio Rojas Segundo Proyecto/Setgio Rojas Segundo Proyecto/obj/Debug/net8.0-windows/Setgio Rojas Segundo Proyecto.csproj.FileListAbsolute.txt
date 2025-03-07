@@ -1,0 +1,18 @@
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio_Rojas_Segundo_Proyecto.Form1.resources
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\bin\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.exe
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\bin\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.deps.json
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\bin\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.runtimeconfig.json
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\bin\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.dll
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\bin\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.pdb
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.dll
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\refint\Setgio Rojas Segundo Proyecto.dll
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.pdb
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio Rojas Segundo Proyecto.genruntimeconfig.cache
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\ref\Setgio Rojas Segundo Proyecto.dll
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio_Rojas_Segundo_Proyecto.Agregar.resources
+C:\Users\Sergio\source\repos\Setgio Rojas Segundo Proyecto\Setgio Rojas Segundo Proyecto\obj\Debug\net8.0-windows\Setgio_Rojas_Segundo_Proyecto.Properties.Resources.resources
